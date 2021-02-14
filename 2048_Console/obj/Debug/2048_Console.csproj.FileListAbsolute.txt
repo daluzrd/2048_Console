@@ -1,0 +1,7 @@
+C:\Users\lucas\Documents\2048_Console\2048_Console\bin\Debug\2048_Console.exe.config
+C:\Users\lucas\Documents\2048_Console\2048_Console\bin\Debug\2048_Console.exe
+C:\Users\lucas\Documents\2048_Console\2048_Console\bin\Debug\2048_Console.pdb
+C:\Users\lucas\Documents\2048_Console\2048_Console\obj\Debug\2048_Console.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\2048_Console\2048_Console\obj\Debug\2048_Console.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\2048_Console\2048_Console\obj\Debug\2048_Console.exe
+C:\Users\lucas\Documents\2048_Console\2048_Console\obj\Debug\2048_Console.pdb
